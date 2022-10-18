@@ -1,0 +1,465 @@
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "0DW-yM-FDm"; */
+"0DW-yM-FDm.placeholder" = "郵箱";
+
+/* Class = "UILabel"; text = "已连接"; ObjectID = "1dQ-ZB-Agt"; */
+"1dQ-ZB-Agt.text" = "已連接";
+
+/* Class = "UILabel"; text = "音量控制"; ObjectID = "1qQ-E2-2RP"; */
+"1qQ-E2-2RP.text" = "音量控制";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "1yZ-if-nTH"; */
+"1yZ-if-nTH.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "V1.0"; ObjectID = "27Q-J3-Ez6"; */
+"27Q-J3-Ez6.text" = "V1.0";
+
+/* Class = "UILabel"; text = "0/200"; ObjectID = "2gx-kh-s69"; */
+"2gx-kh-s69.text" = "0/200";
+
+/* Class = "UILabel"; text = "连接两个耳塞以了解所有功能"; ObjectID = "2rN-my-2zG"; */
+"2rN-my-2zG.text" = "連接兩個耳塞以了解所有功能";
+
+/* Class = "UILabel"; text = "中国大陆"; ObjectID = "3xA-7k-hKA"; */
+"3xA-7k-hKA.text" = "中國大陸";
+
+/* Class = "UILabel"; text = "2020-05-19 09: 00"; ObjectID = "4wv-Ze-teH"; */
+"4wv-Ze-teH.text" = "2020-05-19 09: 00";
+
+/* Class = "UILabel"; text = "查看详细信息"; ObjectID = "5fS-7K-knY"; */
+"5fS-7K-knY.text" = "查看詳細信息";
+
+/* Class = "UILabel"; text = "搜索中"; ObjectID = "76z-Yb-O1U"; */
+"76z-Yb-O1U.text" = "搜索中";
+
+/* Class = "UILabel"; text = "连 接"; ObjectID = "7Gk-cJ-srz"; */
+"7Gk-cJ-srz.text" = "連接";
+
+/* Class = "UILabel"; text = "+6"; ObjectID = "808-wA-Twk"; */
+"808-wA-Twk.text" = "+6";
+
+/* Class = "UILabel"; text = "戴上耳机找一个安静的地方进行测试。"; ObjectID = "8Bs-p0-iSV"; */
+"8Bs-p0-iSV.text" = "戴上耳機找一個安靜的地方進行測試。";
+
+/* Class = "UILabel"; text = "自定义均衡器"; ObjectID = "8JX-dZ-CYp"; */
+"8JX-dZ-CYp.text" = "自定義均衡器";
+
+/* Class = "UILabel"; text = "2020.04.23"; ObjectID = "91h-qo-a0j"; */
+"91h-qo-a0j.text" = "2020.04.23";
+
+/* Class = "UILabel"; text = "忘记密码"; ObjectID = "9IL-n6-IPm"; */
+"9IL-n6-IPm.text" = "忘記密碼";
+
+/* Class = "UILabel"; text = "在蓝牙设置中选择你的SoundPEATS耳机"; ObjectID = "9qw-Dt-xzX"; */
+"9qw-Dt-xzX.text" = "在藍牙設置中選擇你的SoundPEATS耳機";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "AQQ-7N-4KW"; */
+"AQQ-7N-4KW.text" = "返回";
+
+"YBm-Lq-72d.text" = "返回";
+
+/* Class = "UITextField"; text = "蜗牛MT"; ObjectID = "AdJ-nt-0WI"; */
+"AdJ-nt-0WI.text" = "蜗牛MT";
+
+/* Class = "UILabel"; text = "当前版本: "; ObjectID = "Alc-aE-Vkd"; */
+"Alc-aE-Vkd.text" = "當前版本:";
+
+/* Class = "UILabel"; text = "一声"; ObjectID = "C5Y-v6-Iht"; */
+"C5Y-v6-Iht.text" = "一聲";
+
+/* Class = "UILabel"; text = "测试时间：2020年9月2号 17:52"; ObjectID = "C6M-wT-7h1"; */
+"C6M-wT-7h1.text" = "測試時間：2020年9月2号 17:52";
+
+/* Class = "UILabel"; text = "选择设备"; ObjectID = "CAk-DA-7g1"; */
+"CAk-DA-7g1.text" = "選擇設備";
+
+/* Class = "UILabel"; text = "播放音乐，听听有什么差异"; ObjectID = "Cji-ZE-4yD"; */
+"Cji-ZE-4yD.text" = "播放音樂，聽聽有什麼差異";
+
+/* Class = "UILabel"; text = "智能听感测试"; ObjectID = "Cmq-uu-l8z"; */
+"Cmq-uu-l8z.text" = "智能聽感測試";
+
+/* Class = "UILabel"; text = "灯效开关"; ObjectID = "DUu-Ko-v4c"; */
+"DUu-Ko-v4c.text" = "燈效開關";
+
+/* Class = "UILabel"; text = "测试耳机：jinbird 510"; ObjectID = "Dl2-1I-XO6"; */
+"Dl2-1I-XO6.text" = "測試耳機：jinbird 510";
+
+/* Class = "UILabel"; text = "重置"; ObjectID = "E5B-H4-Mgd"; */
+"E5B-H4-Mgd.text" = "重置";
+
+/* Class = "UILabel"; text = "完成整个测试大概需要1分钟。"; ObjectID = "Eiv-Fg-ADd"; */
+"Eiv-Fg-ADd.text" = "完成整個測試大概需要1分鐘。";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "F7r-bl-5Je"; */
+"F7r-bl-5Je.placeholder" = "密碼";
+
+/* Class = "UILabel"; text = "欢迎使用"; ObjectID = "FZn-hr-FJe"; */
+"FZn-hr-FJe.text" = "歡迎使用";
+
+/* Class = "UILabel"; text = "上传照片"; ObjectID = "GfS-0A-823"; */
+"GfS-0A-823.text" = "上傳照片";
+
+/* Class = "UILabel"; text = "普通模式"; ObjectID = "HOq-Xr-L3i"; */
+"HOq-Xr-L3i.text" = "普通模式";
+
+/* Class = "UILabel"; text = "登录"; ObjectID = "HdX-XN-XZE"; */
+"HdX-XN-XZE.text" = "登錄";
+
+/* Class = "UILabel"; text = "语言"; ObjectID = "HpW-Td-erq"; */
+"HpW-Td-erq.text" = "語言";
+
+/* Class = "UILabel"; text = "选择要反馈的设备"; ObjectID = "IXD-7p-0ay"; */
+"IXD-7p-0ay.text" = "選擇要反饋的設備";
+
+/* Class = "UILabel"; text = "打给我们"; ObjectID = "Ic5-Pt-iRQ"; */
+"Ic5-Pt-iRQ.text" = "打給我們";
+
+/* Class = "UILabel"; text = "取消"; ObjectID = "Ig4-sB-qro"; */
+"Ig4-sB-qro.text" = "取消";
+
+/* Class = "UILabel"; text = "发 送"; ObjectID = "IoN-bJ-Gkb"; */
+"IoN-bJ-Gkb.text" = "發送";
+
+/* Class = "UILabel"; text = "Darrell Thorp"; ObjectID = "IqE-5U-keC"; */
+"IqE-5U-keC.text" = "Darrell Thorp";
+
+/* Class = "UILabel"; text = "问题反馈"; ObjectID = "IwT-LR-1pU"; */
+"IwT-LR-1pU.text" = "問題反饋";
+
+/* Class = "UILabel"; text = "简体中文"; ObjectID = "IzS-f7-wJh"; */
+"IzS-f7-wJh.text" = "簡體中文";
+
+/* Class = "UILabel"; text = "再听一次"; ObjectID = "J0O-s7-6dh"; */
+"J0O-s7-6dh.text" = "再聽一次";
+
+/* Class = "UILabel"; text = "两声"; ObjectID = "JM1-oT-Jbz"; */
+"JM1-oT-Jbz.text" = "兩聲";
+
+/* Class = "UILabel"; text = "注册"; ObjectID = "JgR-Qi-D90"; */
+"JgR-Qi-D90.text" = "註冊";
+
+/* Class = "UILabel"; text = "-6"; ObjectID = "Kb2-LO-bdb"; */
+"Kb2-LO-bdb.text" = "-6";
+
+/* Class = "UILabel"; text = "使用条款"; ObjectID = "L8f-Aa-XJX"; */
+"L8f-Aa-XJX.text" = "使用條款";
+
+/* Class = "UILabel"; text = "均衡器"; ObjectID = "LbM-Iv-38b"; */
+"LbM-Iv-38b.text" = "均衡器";
+
+/* Class = "UILabel"; text = "SOUNDPEATS发布“双动圈+两分频”专利TWS耳 机TRUENGINE2"; ObjectID = "MUM-sr-Q3e"; */
+"MUM-sr-Q3e.text" = "SOUNDPEATS发布“雙動圈+兩分頻”专利TWS耳 机TRUENGINE2";
+
+/* Class = "UILabel"; text = "重测"; ObjectID = "Mke-Nv-Blc"; */
+"Mke-Nv-Blc.text" = "重測";
+
+/* Class = "UILabel"; text = "升级固件"; ObjectID = "NlB-Ct-DOT"; */
+"NlB-Ct-DOT.text" = "升級固件";
+
+//DBS-c0-ag8
+"DBS-c0-ag8.text" = "Upgrade firmware";
+
+/* Class = "UILabel"; text = "TrueAir"; ObjectID = "OEd-bZ-qTL"; */
+"OEd-bZ-qTL.text" = "TrueAir";
+
+/* Class = "UITextView"; text = "优化了EQ高音增 优化了EQ高音增 优化了EQ高音增 优化了EQ高音增"; ObjectID = "PEL-mD-raW"; */
+"PEL-mD-raW.text" = "优化了EQ高音增 优化了EQ高音增 优化了EQ高音增 优化了EQ高音增";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "PUP-Ce-kXh"; */
+"PUP-Ce-kXh.text" = "100%";
+
+/* Class = "UILabel"; text = "选择设备"; ObjectID = "Pn6-JO-FQ0"; */
+"Pn6-JO-FQ0.text" = "選擇設備";
+
+/* Class = "UILabel"; text = "TRUEDOT"; ObjectID = "Q0M-7I-epg"; */
+"Q0M-7I-epg.text" = "TRUEDOT";
+
+/* Class = "UILabel"; text = "欢迎"; ObjectID = "Q44-lU-oUG"; */
+"Q44-lU-oUG.text" = "歡迎";
+
+/* Class = "UILabel"; text = "上图是您听觉能力的科学检测结果。我们将为您智能补偿，开启听力补偿，享受量身定制的好声音吧。"; ObjectID = "QjW-Vp-qnn"; */
+"QjW-Vp-qnn.text" = "上圖是您聽覺能力的科學檢測結果。 我們將為您智慧補償，開啟聽力補償，享受量身定制的好聲音吧。";
+
+/* Class = "UILabel"; text = "购买"; ObjectID = "Qjk-1L-vmJ"; */
+"Qjk-1L-vmJ.text" = "購買";
+
+/* Class = "UILabel"; text = "提交"; ObjectID = "Qw5-Bg-N4g"; */
+"Qw5-Bg-N4g.text" = "提交";
+
+/* Class = "UILabel"; text = "按住耳机柄以在各种模式之间循环"; ObjectID = "R7p-qF-ZdD"; */
+"R7p-qF-ZdD.text" = "按住耳機柄以在各種模式之間迴圈";
+
+/* Class = "UILabel"; text = "欢迎使用"; ObjectID = "Rbw-O1-DhS"; */
+"Rbw-O1-DhS.text" = "歡迎使用";
+
+/* Class = "UILabel"; text = "更新内容"; ObjectID = "RmE-ir-ean"; */
+"RmE-ir-ean.text" = "更新內容";
+
+//NGU-ex-m11
+"NGU-ex-m11.text" = "Update content";
+
+/* Class = "UILabel"; text = "注意："; ObjectID = "RqR-Ts-ygo"; */
+"RqR-Ts-ygo.text" = "注意：";
+
+/* Class = "UILabel"; text = "2020.4.9-12:00"; ObjectID = "Sn8-Bm-mvO"; */
+"Sn8-Bm-mvO.text" = "2020.4.9-12:00";
+
+/* Class = "UITextField"; placeholder = "新密码（6-20个字符）"; ObjectID = "TMe-2v-yJZ"; */
+"TMe-2v-yJZ.placeholder" = "新密碼（ 6-20個字符）";
+
+/* Class = "UILabel"; text = "这是您的自适应EQ配置文件，已保存到您的耳机。"; ObjectID = "TTN-c4-oFK"; */
+"TTN-c4-oFK.text" = "這是您的自適應EQ配置文件，已保存到您的耳機。";
+
+/* Class = "UILabel"; text = "编辑"; ObjectID = "Tha-t9-ImG"; */
+"Tha-t9-ImG.text" = "重置";
+
+/* Class = "UILabel"; text = "重新测试"; ObjectID = "TpW-Tz-mWs"; */
+"TpW-Tz-mWs.text" = "重新測試";
+
+/* Class = "UILabel"; text = "降噪"; ObjectID = "VhW-mD-R5I"; */
+"VhW-mD-R5I.text" = "降噪";
+
+/* Class = "UITextField"; placeholder = "密码（6-20个字符）"; ObjectID = "ViB-0z-J8e"; */
+"ViB-0z-J8e.placeholder" = "密碼（ 6-20個字符）";
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "Vou-uQ-Xeu"; */
+"Vou-uQ-Xeu.placeholder" = "郵箱";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "WM6-XC-TDg"; */
+"WM6-XC-TDg.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "关于账号、售后回访、优惠活动等通知"; ObjectID = "WYh-bF-jFU"; */
+"WYh-bF-jFU.text" = "關於帳號、售後回訪、優惠活動等通知";
+
+/* Class = "UILabel"; text = "获取验证码"; ObjectID = "XZ7-FT-wM7"; */
+"XZ7-FT-wM7.text" = "獲取驗證碼";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "Xce-Iw-D09"; */
+"Xce-Iw-D09.text" = "返回";
+
+/* Class = "UILabel"; text = "当前频率：31HZ"; ObjectID = "Xfn-ui-dba"; */
+"Xfn-ui-dba.text" = "當前頻率：31HZ";
+
+/* Class = "UILabel"; text = "定制"; ObjectID = "Xp2-BJ-KE9"; */
+"Xp2-BJ-KE9.text" = "定制";
+
+/* Class = "UILabel"; text = "请输入反馈信息..."; ObjectID = "YQh-fl-SBj"; */
+"YQh-fl-SBj.text" = "請輸入反饋信息...";
+
+/* Class = "UILabel"; text = "SOUNDPEATS经典"; ObjectID = "Z1U-mK-klE"; */
+"Z1U-mK-klE.text" = "SOUNDPEATS經典";
+
+/* Class = "UILabel"; text = "启用"; ObjectID = "ZZO-yz-gv4"; */
+"ZZO-yz-gv4.text" = "啟用";
+
+/* Class = "UILabel"; text = "订阅 SoundPEATS信息"; ObjectID = "aZb-1k-pOE"; */
+"aZb-1k-pOE.text" = "訂閱 SoundPEATS信息";
+
+/* Class = "UILabel"; text = "关于"; ObjectID = "av3-pt-TLW"; */
+"av3-pt-TLW.text" = "關於";
+
+/* Class = "UITextField"; placeholder = " 昵称（2-10个字符）"; ObjectID = "b6X-4K-Reb"; */
+"b6X-4K-Reb.placeholder" = " 暱稱(2-10 個字符)";
+
+/* Class = "UILabel"; text = "自适应EQ"; ObjectID = "blg-Np-kXm"; */
+"blg-Np-kXm.text" = "自適應EQ";
+
+/* Class = "UILabel"; text = "邮件通知"; ObjectID = "bwU-WQ-Pk7"; */
+"bwU-WQ-Pk7.text" = "郵件通知";
+
+/* Class = "UILabel"; text = "简体中文"; ObjectID = "c9c-Fp-0hq"; */
+"c9c-Fp-0hq.text" = "簡體中文";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "cDx-YR-eN9"; */
+"cDx-YR-eN9.text" = "返回";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "azE-hx-W4B"; */
+"azE-hx-W4B.text" = "返回";
+
+/* Class = "UILabel"; text = "测试报告"; ObjectID = "cJm-5u-w5L"; */
+"cJm-5u-w5L.text" = "測試報告";
+
+/* Class = "UILabel"; text = "设置"; ObjectID = "cgc-t8-GVE"; */
+"cgc-t8-GVE.text" = "設置";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "cr1-Dj-Nyy"; */
+"cr1-Dj-Nyy.text" = "返回";
+
+/* Class = "UILabel"; text = "下 载"; ObjectID = "cwQ-tV-hcT"; */
+"cwQ-tV-hcT.text" = "下載";
+
+/* Class = "UILabel"; text = "自定义均衡器"; ObjectID = "d3X-Wp-pF9"; */
+"d3X-Wp-pF9.text" = "自定義均衡器";
+
+"jHo-4X-HR6.text" = "自定義均衡器";
+
+"l6c-JG-egP.text" = "自定義均衡器";
+
+/* Class = "UILabel"; text = "最新版本: "; ObjectID = "dCF-Dd-f7b"; */
+"dCF-Dd-f7b.text" = "最新版本:";
+
+/* Class = "UILabel"; text = "没有消息"; ObjectID = "dZA-0e-Qp8"; */
+"dZA-0e-Qp8.text" = "沒有消息";
+
+/* Class = "UILabel"; text = "客服电话"; ObjectID = "dmJ-XX-7tX"; */
+"dmJ-XX-7tX.text" = "客服電話";
+
+/* Class = "UILabel"; text = "开启手机蓝牙"; ObjectID = "dyo-x4-NXY"; */
+"dyo-x4-NXY.text" = "開啟手機藍牙";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "eQq-vt-C6T"; */
+"eQq-vt-C6T.text" = "返回";
+
+/* Class = "UILabel"; text = "获取验证码"; ObjectID = "g4Y-sG-uN6"; */
+"g4Y-sG-uN6.text" = "獲取驗證碼";
+
+/* Class = "UILabel"; text = "三声"; ObjectID = "gJb-1j-ofb"; */
+"gJb-1j-ofb.text" = "三聲";
+
+/* Class = "UILabel"; text = "当前音量：50db"; ObjectID = "gac-UX-5bv"; */
+"gac-UX-5bv.text" = "當前音量：50db";
+
+/* Class = "UILabel"; text = "注 册"; ObjectID = "hcD-Ds-UMg"; */
+"hcD-Ds-UMg.text" = "註冊";
+
+/* Class = "UILabel"; text = "测试过程中，将会播放不同频率的声音，听到几声“嘟”，点击对应的数字，没听到点击“没听到”。"; ObjectID = "hf8-At-wxX"; */
+"hf8-At-wxX.text" = "測試過程中，將會播放不同頻率的聲音，聽到幾聲“嘟”，點擊對應的數位，沒聽到點擊“沒聽到”。";
+
+/* Class = "UILabel"; text = "通透模式"; ObjectID = "hz8-SA-b08"; */
+"hz8-SA-b08.text" = "通透模式";
+
+/* Class = "UILabel"; text = "升级固件"; ObjectID = "iIt-Bb-0KH"; */
+"iIt-Bb-0KH.text" = "升級固件";
+
+/* Class = "UILabel"; text = "下面是您双耳听觉能力的科学检测结果。"; ObjectID = "jPa-eT-Ujt"; */
+"jPa-eT-Ujt.text" = "下麵是您雙耳聽覺能力的科學檢測結果。";
+
+/* Class = "UILabel"; text = "默认"; ObjectID = "khK-zJ-7nT"; */
+"khK-zJ-7nT.text" = "默認";
+
+/* Class = "UILabel"; text = "全部产品"; ObjectID = "kj4-Ql-sdk"; */
+"kj4-Ql-sdk.text" = "全部產品";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "kq7-J5-6bA"; */
+"kq7-J5-6bA.text" = "SOUNDPEATS";
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "kxt-Ec-QQi"; */
+"kxt-Ec-QQi.placeholder" = "郵箱";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "kzf-RD-NOm"; */
+"kzf-RD-NOm.text" = "0";
+
+/* Class = "UILabel"; text = "Alex Pasco"; ObjectID = "lJt-xj-cTK"; */
+"lJt-xj-cTK.text" = "Alex Pasco";
+
+/* Class = "UITextField"; placeholder = "验证码（6个字符）"; ObjectID = "lxw-BQ-Oah"; */
+"lxw-BQ-Oah.placeholder" = "驗證碼 (6個字符)";
+
+/* Class = "UILabel"; text = "留下反馈"; ObjectID = "mVa-Jb-8gm"; */
+"mVa-Jb-8gm.text" = "留下反饋";
+
+/* Class = "UILabel"; text = "降噪模式"; ObjectID = "muG-bU-1xP"; */
+//"muG-bU-1xP.text" = "一級降噪";
+"muG-bU-1xP.text" = "降噪模式";
+
+/* Class = "UILabel"; text = "自适应EQ"; ObjectID = "muP-D6-oQt"; */
+"muP-D6-oQt.text" = "自適應EQ";
+
+/* Class = "UILabel"; text = "请先戴上耳机"; ObjectID = "mul-56-Tj0"; */
+"mul-56-Tj0.text" = "請先戴上耳機";
+
+/* Class = "UILabel"; text = "专业的"; ObjectID = "nEu-xu-An5"; */
+"nEu-xu-An5.text" = "專業的";
+
+/* Class = "UILabel"; text = "帮助"; ObjectID = "nV2-bd-7gY"; */
+"nV2-bd-7gY.text" = "幫助";
+
+/* Class = "UILabel"; text = "TRUEDOT"; ObjectID = "nm2-D1-VEe"; */
+"nm2-D1-VEe.text" = "TRUEDOT";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "nop-IZ-eCe"; */
+"nop-IZ-eCe.text" = "100%";
+
+/* Class = "UILabel"; text = "默认"; ObjectID = "nrk-L0-vW0"; */
+"nrk-L0-vW0.text" = "默認";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "pFB-Lc-paw"; */
+"pFB-Lc-paw.text" = "返回";
+
+/* Class = "UILabel"; text = "二级降噪"; ObjectID = "pJz-Gp-52G"; */
+"pJz-Gp-52G.text" = "二級降噪";
+
+/* Class = "UITextField"; placeholder = "验证码（6个字符）"; ObjectID = "paD-9W-hhC"; */
+"paD-9W-hhC.placeholder" = "驗證碼(6 個字符)";
+
+/* Class = "UILabel"; text = "取消"; ObjectID = "qRW-Oy-rm5"; */
+"qRW-Oy-rm5.text" = "取消";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "qhW-gi-vrK"; */
+"qhW-gi-vrK.text" = "返回";
+
+/* Class = "UILabel"; text = "没听到"; ObjectID = "sUe-Tq-JMl"; */
+"sUe-Tq-JMl.text" = "沒聽到";
+
+/* Class = "UILabel"; text = "重置密码"; ObjectID = "sjc-Zd-EoW"; */
+"sjc-Zd-EoW.text" = "重置密碼";
+
+/* Class = "UILabel"; text = "roy.wu@smartcorelink.com"; ObjectID = "sxm-eZ-66V"; */
+"sxm-eZ-66V.text" = "roy.wu@smartcorelink.com";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "t2p-Ya-sXb"; */
+"t2p-Ya-sXb.text" = "返回";
+
+/* Class = "UILabel"; text = "低音增强"; ObjectID = "t90-bh-RUx"; */
+"t90-bh-RUx.text" = "低音增強";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "tSk-lP-ttc"; */
+"tSk-lP-ttc.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "操作说明"; ObjectID = "tep-S7-GU2"; */
+"tep-S7-GU2.text" = "操作說明";
+
+/* Class = "UILabel"; text = "同意并继续"; ObjectID = "uAb-Z4-Vo1"; */
+"uAb-Z4-Vo1.text" = "同意並繼續";
+
+/* Class = "UILabel"; text = "重置"; ObjectID = "uYN-UX-nFH"; */
+"uYN-UX-nFH.text" = "重置";
+
+"oWN-Up-qxP.text" = "重置";
+
+/* Class = "UILabel"; text = "专业的"; ObjectID = "uxs-kw-eea"; */
+"uxs-kw-eea.text" = "專業的";
+
+/* Class = "UILabel"; text = "登 录"; ObjectID = "vHu-Vf-Cox"; */
+"vHu-Vf-Cox.text" = "登錄";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "wO2-Zb-H3W"; */
+"wO2-Zb-H3W.text" = "返回";
+
+/* Class = "UILabel"; text = "格莱美获奖者为您打造的精品均衡器"; ObjectID = "whh-HE-zaT"; */
+"whh-HE-zaT.text" = "格萊美獲獎者為您打造的精品等化器";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "xBg-8e-yv1"; */
+"xBg-8e-yv1.text" = "100%";
+
+/* Class = "UILabel"; text = "下一步"; ObjectID = "xmJ-FQ-xzV"; */
+"xmJ-FQ-xzV.text" = "下一步";
+
+/* Class = "UILabel"; text = "请输入你的注册邮箱。  我们将向你的邮箱发送验证邮件。"; ObjectID = "yUP-eJ-Bxn"; */
+"yUP-eJ-Bxn.text" = "請輸入你的注册郵箱。  我們將向你的郵箱發送驗證郵件。";
+
+/* Class = "UILabel"; text = "低音增强"; ObjectID = "zJh-A2-iLz"; */
+"zJh-A2-iLz.text" = "低音增強";
+
+/* Class = "UILabel"; text = "蓝牙权限未打开。  请在“设置-SoundPEATS”中打开蓝牙权限"; ObjectID = "znp-tT-2XT"; */
+"znp-tT-2XT.text" = "藍牙許可權未打開。請在“設定-SoundPEATS”中打開藍牙許可權“";
+
+"QWo-cB-mdD.text" = "入耳檢測";
+"S1M-B0-TrV.text" = "遊戲模式";
+"qP5-rS-1VU.text" = "返回";
+"hHG-zM-EVM.text" = "添加";
+"spN-jU-eQY.text" = "自定義均衡器";
+
+/* Class = "UILabel"; text = "禁用触控键一击功能"; ObjectID = "2ke-Ry-yoN"; */
+"2ke-Ry-yoN.text" = "禁用觸控鍵一擊功能";

@@ -1,0 +1,465 @@
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "0DW-yM-FDm"; */
+"0DW-yM-FDm.placeholder" = "E-Mail";
+
+/* Class = "UILabel"; text = "已连接"; ObjectID = "1dQ-ZB-Agt"; */
+"1dQ-ZB-Agt.text" = "Verbunden";
+
+/* Class = "UILabel"; text = "音量控制"; ObjectID = "1qQ-E2-2RP"; */
+"1qQ-E2-2RP.text" = "Lautstärkeregelung";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "1yZ-if-nTH"; */
+"1yZ-if-nTH.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "V1.0"; ObjectID = "27Q-J3-Ez6"; */
+"27Q-J3-Ez6.text" = "V1.0";
+
+/* Class = "UILabel"; text = "0/200"; ObjectID = "2gx-kh-s69"; */
+"2gx-kh-s69.text" = "0/200";
+
+/* Class = "UILabel"; text = "连接两个耳塞以了解所有功能"; ObjectID = "2rN-my-2zG"; */
+"2rN-my-2zG.text" = "Verbinde zwei Ohrhörer, um alle Funktionen zu erfahren";
+
+/* Class = "UILabel"; text = "中国大陆"; ObjectID = "3xA-7k-hKA"; */
+"3xA-7k-hKA.text" = "Festlandchina";
+
+/* Class = "UILabel"; text = "2020-05-19 09: 00"; ObjectID = "4wv-Ze-teH"; */
+"4wv-Ze-teH.text" = "2020-05-19 09: 00";
+
+/* Class = "UILabel"; text = "查看详细信息"; ObjectID = "5fS-7K-knY"; */
+"5fS-7K-knY.text" = "Überprüfe die Detailinformationen";
+
+/* Class = "UILabel"; text = "搜索中"; ObjectID = "76z-Yb-O1U"; */
+"76z-Yb-O1U.text" = "suchen";
+
+/* Class = "UILabel"; text = "连 接"; ObjectID = "7Gk-cJ-srz"; */
+"7Gk-cJ-srz.text" = "Verbinden";
+
+/* Class = "UILabel"; text = "+6"; ObjectID = "808-wA-Twk"; */
+"808-wA-Twk.text" = "+6";
+
+/* Class = "UILabel"; text = "戴上耳机找一个安静的地方进行测试。"; ObjectID = "8Bs-p0-iSV"; */
+"8Bs-p0-iSV.text" = "Kopfhörer aufsetzen und einen ruhigen Ort zum Testen suchen。";
+
+/* Class = "UILabel"; text = "自定义均衡器"; ObjectID = "8JX-dZ-CYp"; */
+"8JX-dZ-CYp.text" = "Benutzerdefinierter Equalizer";
+
+"jHo-4X-HR6.text" = "Benutzerdefinierter Equalizer";
+
+"l6c-JG-egP.text" = "Benutzerdefinierter Equalizer";
+
+/* Class = "UILabel"; text = "2020.04.23"; ObjectID = "91h-qo-a0j"; */
+"91h-qo-a0j.text" = "2020.04.23";
+
+/* Class = "UILabel"; text = "忘记密码"; ObjectID = "9IL-n6-IPm"; */
+"9IL-n6-IPm.text" = "Passwort vergessen";
+
+/* Class = "UILabel"; text = "在蓝牙设置中选择你的SoundPEATS耳机"; ObjectID = "9qw-Dt-xzX"; */
+"9qw-Dt-xzX.text" = "Wählen Sie Ihre SoundPEATS-Kopfhörer in den Bluetooth-Einstellungen aus";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "AQQ-7N-4KW"; */
+"AQQ-7N-4KW.text" = "Zurück";
+
+"YBm-Lq-72d.text" = "Zurück";
+
+
+/* Class = "UITextField"; text = "蜗牛MT"; ObjectID = "AdJ-nt-0WI"; */
+"AdJ-nt-0WI.text" = "蜗牛MT";
+
+/* Class = "UILabel"; text = "当前版本: "; ObjectID = "Alc-aE-Vkd"; */
+"Alc-aE-Vkd.text" = "Version: ";
+
+/* Class = "UILabel"; text = "一声"; ObjectID = "C5Y-v6-Iht"; */
+"C5Y-v6-Iht.text" = "Ein Signalton";
+
+/* Class = "UILabel"; text = "测试时间：2020年9月2号 17:52"; ObjectID = "C6M-wT-7h1"; */
+"C6M-wT-7h1.text" = "Testzeit：2020年9月2号 17:52";
+
+/* Class = "UILabel"; text = "选择设备"; ObjectID = "CAk-DA-7g1"; */
+"CAk-DA-7g1.text" = "Gerät auswählen";
+
+/* Class = "UILabel"; text = "播放音乐，听听有什么差异"; ObjectID = "Cji-ZE-4yD"; */
+"Cji-ZE-4yD.text" = "Spiele Musik ab und höre den Unterschied";
+
+/* Class = "UILabel"; text = "智能听感测试"; ObjectID = "Cmq-uu-l8z"; */
+"Cmq-uu-l8z.text" = "Intelligenter Hörtest";
+
+/* Class = "UILabel"; text = "灯效开关"; ObjectID = "DUu-Ko-v4c"; */
+"DUu-Ko-v4c.text" = "Lichteffekt Schalter";
+
+/* Class = "UILabel"; text = "测试耳机：jinbird 510"; ObjectID = "Dl2-1I-XO6"; */
+"Dl2-1I-XO6.text" = "Kopfhörer testen：jinbird 510";
+
+/* Class = "UILabel"; text = "重置"; ObjectID = "E5B-H4-Mgd"; */
+"E5B-H4-Mgd.text" = "Zurücksetzen";
+
+"oWN-Up-qxP.text" = "Zurücksetzen";
+
+/* Class = "UILabel"; text = "完成整个测试大概需要1分钟。"; ObjectID = "Eiv-Fg-ADd"; */
+"Eiv-Fg-ADd.text" = "Der gesamte Test dauert ungefähr 1 Minute。";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "F7r-bl-5Je"; */
+"F7r-bl-5Je.placeholder" = "Passwort";
+
+/* Class = "UILabel"; text = "欢迎使用"; ObjectID = "FZn-hr-FJe"; */
+"FZn-hr-FJe.text" = "Willkommen bei";
+
+/* Class = "UILabel"; text = "上传照片"; ObjectID = "GfS-0A-823"; */
+"GfS-0A-823.text" = "Bild hochladen";
+
+/* Class = "UILabel"; text = "普通模式"; ObjectID = "HOq-Xr-L3i"; */
+"HOq-Xr-L3i.text" = "Normaler Modus";
+
+/* Class = "UILabel"; text = "登录"; ObjectID = "HdX-XN-XZE"; */
+"HdX-XN-XZE.text" = "Einloggen";
+
+/* Class = "UILabel"; text = "语言"; ObjectID = "HpW-Td-erq"; */
+"HpW-Td-erq.text" = "Sprache";
+
+/* Class = "UILabel"; text = "选择要反馈的设备"; ObjectID = "IXD-7p-0ay"; */
+"IXD-7p-0ay.text" = "Wählen Sie das Gerät zum Feedback aus";
+
+/* Class = "UILabel"; text = "打给我们"; ObjectID = "Ic5-Pt-iRQ"; */
+"Ic5-Pt-iRQ.text" = "Rufen Sie uns an";
+
+/* Class = "UILabel"; text = "取消"; ObjectID = "Ig4-sB-qro"; */
+"Ig4-sB-qro.text" = "Abbrechen";
+
+/* Class = "UILabel"; text = "发 送"; ObjectID = "IoN-bJ-Gkb"; */
+"IoN-bJ-Gkb.text" = "Senden";
+
+/* Class = "UILabel"; text = "Darrell Thorp"; ObjectID = "IqE-5U-keC"; */
+"IqE-5U-keC.text" = "Darrell Thorp";
+
+/* Class = "UILabel"; text = "问题反馈"; ObjectID = "IwT-LR-1pU"; */
+"IwT-LR-1pU.text" = "Feedback";
+
+/* Class = "UILabel"; text = "简体中文"; ObjectID = "IzS-f7-wJh"; */
+"IzS-f7-wJh.text" = "Chinesisch";
+
+/* Class = "UILabel"; text = "再听一次"; ObjectID = "J0O-s7-6dh"; */
+"J0O-s7-6dh.text" = "Höre noch einmal zu";
+
+/* Class = "UILabel"; text = "两声"; ObjectID = "JM1-oT-Jbz"; */
+"JM1-oT-Jbz.text" = "Zwei Signaltöne";
+
+/* Class = "UILabel"; text = "注册"; ObjectID = "JgR-Qi-D90"; */
+"JgR-Qi-D90.text" = "Registrieren";
+
+/* Class = "UILabel"; text = "-6"; ObjectID = "Kb2-LO-bdb"; */
+"Kb2-LO-bdb.text" = "-6";
+
+/* Class = "UILabel"; text = "使用条款"; ObjectID = "L8f-Aa-XJX"; */
+"L8f-Aa-XJX.text" = "Nutzungsbedingungen";
+
+/* Class = "UILabel"; text = "均衡器"; ObjectID = "LbM-Iv-38b"; */
+"LbM-Iv-38b.text" = "EQ";
+
+/* Class = "UILabel"; text = "SOUNDPEATS发布“双动圈+两分频”专利TWS耳 机TRUENGINE2"; ObjectID = "MUM-sr-Q3e"; */
+"MUM-sr-Q3e.text" = "SOUNDPEATS发布“双动圈+两分频”专利TWS耳 机TRUENGINE2";
+
+/* Class = "UILabel"; text = "重测"; ObjectID = "Mke-Nv-Blc"; */
+"Mke-Nv-Blc.text" = "Testen erneut";
+
+/* Class = "UILabel"; text = "升级固件"; ObjectID = "NlB-Ct-DOT"; */
+"NlB-Ct-DOT.text" = "Firmware upgraden";
+
+//DBS-c0-ag8
+"DBS-c0-ag8.text" = "Firmware upgraden";
+
+/* Class = "UILabel"; text = "TrueAir"; ObjectID = "OEd-bZ-qTL"; */
+"OEd-bZ-qTL.text" = "TrueAir";
+
+/* Class = "UITextView"; text = "优化了EQ高音增 优化了EQ高音增 优化了EQ高音增 优化了EQ高音增"; ObjectID = "PEL-mD-raW"; */
+"PEL-mD-raW.text" = "优化了EQ高音增 优化了EQ高音增 优化了EQ高音增 优化了EQ高音增";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "PUP-Ce-kXh"; */
+"PUP-Ce-kXh.text" = "100%";
+
+/* Class = "UILabel"; text = "选择设备"; ObjectID = "Pn6-JO-FQ0"; */
+"Pn6-JO-FQ0.text" = "Gerät auswählen";
+
+/* Class = "UILabel"; text = "TRUEDOT"; ObjectID = "Q0M-7I-epg"; */
+"Q0M-7I-epg.text" = "TRUEDOT";
+
+/* Class = "UILabel"; text = "欢迎"; ObjectID = "Q44-lU-oUG"; */
+"Q44-lU-oUG.text" = "Willkommen";
+
+/* Class = "UILabel"; text = "上图是您听觉能力的科学检测结果。我们将为您智能补偿，开启听力补偿，享受量身定制的好声音吧。"; ObjectID = "QjW-Vp-qnn"; */
+"QjW-Vp-qnn.text" = "Das obige Bild ist das Ergebnis eines wissenschaftlichen Tests Ihres Hörvermögens.Wir kompensieren intelligent für Sie, schalten den Hörausgleich ein, genießen den angepasst Klang。";
+
+/* Class = "UILabel"; text = "购买"; ObjectID = "Qjk-1L-vmJ"; */
+"Qjk-1L-vmJ.text" = "Kaufen";
+
+/* Class = "UILabel"; text = "提交"; ObjectID = "Qw5-Bg-N4g"; */
+"Qw5-Bg-N4g.text" = "Einreichen ";
+
+/* Class = "UILabel"; text = "按住耳机柄以在各种模式之间循环"; ObjectID = "R7p-qF-ZdD"; */
+"R7p-qF-ZdD.text" = "Drücken und halten Sie den Kopfhörergriff, um durch die verschiedenen Modi zu wechseln";
+
+/* Class = "UILabel"; text = "欢迎使用"; ObjectID = "Rbw-O1-DhS"; */
+"Rbw-O1-DhS.text" = "Willkommen bei";
+
+/* Class = "UILabel"; text = "更新内容"; ObjectID = "RmE-ir-ean"; */
+"RmE-ir-ean.text" = "Inhalte aktualisieren";
+
+//NGU-ex-m11
+"NGU-ex-m11.text" = "Inhalte aktualisieren";
+
+/* Class = "UILabel"; text = "注意："; ObjectID = "RqR-Ts-ygo"; */
+"RqR-Ts-ygo.text" = "Achtung：";
+
+/* Class = "UILabel"; text = "2020.4.9-12:00"; ObjectID = "Sn8-Bm-mvO"; */
+"Sn8-Bm-mvO.text" = "2020.4.9-12:00";
+
+/* Class = "UITextField"; placeholder = "新密码（6-20个字符）"; ObjectID = "TMe-2v-yJZ"; */
+"TMe-2v-yJZ.placeholder" = "Passwort (6-20 Zeichen)";
+
+/* Class = "UILabel"; text = "这是您的自适应EQ配置文件，已保存到您的耳机。"; ObjectID = "TTN-c4-oFK"; */
+"TTN-c4-oFK.text" = "Dies ist Ihr adaptives EQ-Profil, das in Ihrem Headset gespeichert wurde。";
+
+/* Class = "UILabel"; text = "编辑"; ObjectID = "Tha-t9-ImG"; */
+"Tha-t9-ImG.text" = "Zurücksetzen";
+
+/* Class = "UILabel"; text = "重新测试"; ObjectID = "TpW-Tz-mWs"; */
+"TpW-Tz-mWs.text" = "Testen erneut";
+
+/* Class = "UILabel"; text = "降噪"; ObjectID = "VhW-mD-R5I"; */
+"VhW-mD-R5I.text" = "Rauschunterdrückung";
+
+/* Class = "UITextField"; placeholder = "密码（6-20个字符）"; ObjectID = "ViB-0z-J8e"; */
+"ViB-0z-J8e.placeholder" = "Passwort (6-20 Zeichen)";
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "Vou-uQ-Xeu"; */
+"Vou-uQ-Xeu.placeholder" = "E-Mail";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "WM6-XC-TDg"; */
+"WM6-XC-TDg.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "关于账号、售后回访、优惠活动等通知"; ObjectID = "WYh-bF-jFU"; */
+"WYh-bF-jFU.text" = "关于账号、售后回访、优惠活动等通知";
+
+/* Class = "UILabel"; text = "获取验证码"; ObjectID = "XZ7-FT-wM7"; */
+"XZ7-FT-wM7.text" = "Code";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "Xce-Iw-D09"; */
+"Xce-Iw-D09.text" = "Zurück";
+
+/* Class = "UILabel"; text = "当前频率：31HZ"; ObjectID = "Xfn-ui-dba"; */
+"Xfn-ui-dba.text" = "Aktuelle Frequenz：31HZ";
+
+/* Class = "UILabel"; text = "定制"; ObjectID = "Xp2-BJ-KE9"; */
+"Xp2-BJ-KE9.text" = "Angepasst";
+
+/* Class = "UILabel"; text = "请输入反馈信息..."; ObjectID = "YQh-fl-SBj"; */
+"YQh-fl-SBj.text" = "Bitte geben Sie den Feedback-Inhalt ein...";
+
+/* Class = "UILabel"; text = "SOUNDPEATS经典"; ObjectID = "Z1U-mK-klE"; */
+"Z1U-mK-klE.text" = "SOUNDPEATSklassisch";
+
+/* Class = "UILabel"; text = "启用"; ObjectID = "ZZO-yz-gv4"; */
+"ZZO-yz-gv4.text" = "Starten";
+
+/* Class = "UILabel"; text = "订阅 SoundPEATS信息"; ObjectID = "aZb-1k-pOE"; */
+"aZb-1k-pOE.text" = "Informationen des Soundpeats abonnieren";
+
+/* Class = "UILabel"; text = "关于"; ObjectID = "av3-pt-TLW"; */
+"av3-pt-TLW.text" = "Über";
+
+/* Class = "UITextField"; placeholder = " 昵称（2-10个字符）"; ObjectID = "b6X-4K-Reb"; */
+"b6X-4K-Reb.placeholder" = " Spitzname (2-10 Zeichen) ";
+
+/* Class = "UILabel"; text = "自适应EQ"; ObjectID = "blg-Np-kXm"; */
+"blg-Np-kXm.text" = "Adaptiver EQ";
+
+/* Class = "UILabel"; text = "邮件通知"; ObjectID = "bwU-WQ-Pk7"; */
+"bwU-WQ-Pk7.text" = "E-Mail-Benachrichtigungen";
+
+/* Class = "UILabel"; text = "简体中文"; ObjectID = "c9c-Fp-0hq"; */
+"c9c-Fp-0hq.text" = "Chinesisch";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "cDx-YR-eN9"; */
+"cDx-YR-eN9.text" = "Zurück";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "azE-hx-W4B"; */
+"azE-hx-W4B.text" = "Zurück";
+
+/* Class = "UILabel"; text = "测试报告"; ObjectID = "cJm-5u-w5L"; */
+"cJm-5u-w5L.text" = "Testbericht";
+
+/* Class = "UILabel"; text = "设置"; ObjectID = "cgc-t8-GVE"; */
+"cgc-t8-GVE.text" = "Setzen";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "cr1-Dj-Nyy"; */
+"cr1-Dj-Nyy.text" = "Zurück";
+
+/* Class = "UILabel"; text = "下 载"; ObjectID = "cwQ-tV-hcT"; */
+"cwQ-tV-hcT.text" = "Herunterladen";
+
+/* Class = "UILabel"; text = "自定义均衡器"; ObjectID = "d3X-Wp-pF9"; */
+"d3X-Wp-pF9.text" = "Benutzerdefinierter Equalizer";
+
+/* Class = "UILabel"; text = "最新版本: "; ObjectID = "dCF-Dd-f7b"; */
+"dCF-Dd-f7b.text" = "Bereits die neueste Version: ";
+
+/* Class = "UILabel"; text = "没有消息"; ObjectID = "dZA-0e-Qp8"; */
+"dZA-0e-Qp8.text" = "Keine Nachrichten";
+
+/* Class = "UILabel"; text = "客服电话"; ObjectID = "dmJ-XX-7tX"; */
+"dmJ-XX-7tX.text" = "Verbraucher-Hotline";
+
+/* Class = "UILabel"; text = "开启手机蓝牙"; ObjectID = "dyo-x4-NXY"; */
+"dyo-x4-NXY.text" = "Schalte das Bluetooth des Handys ein";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "eQq-vt-C6T"; */
+"eQq-vt-C6T.text" = "Zurück";
+
+/* Class = "UILabel"; text = "获取验证码"; ObjectID = "g4Y-sG-uN6"; */
+"g4Y-sG-uN6.text" = "Code";
+
+/* Class = "UILabel"; text = "三声"; ObjectID = "gJb-1j-ofb"; */
+"gJb-1j-ofb.text" = "Drei Signaltöne";
+
+/* Class = "UILabel"; text = "当前音量：50db"; ObjectID = "gac-UX-5bv"; */
+"gac-UX-5bv.text" = "Aktuelles Volumen：50db";
+
+/* Class = "UILabel"; text = "注 册"; ObjectID = "hcD-Ds-UMg"; */
+"hcD-Ds-UMg.text" = "Registrieren";
+
+/* Class = "UILabel"; text = "测试过程中，将会播放不同频率的声音，听到几声“嘟”，点击对应的数字，没听到点击“没听到”。"; ObjectID = "hf8-At-wxX"; */
+"hf8-At-wxX.text" = "Während des Tests werden verschiedene Frequenzen abgespielt. Sie hören ein paar Pieptöne, klicken Sie auf die entsprechenden Zahlen, klicken Sie auf \"nicht gehört\", wenn Sie nichts hören”。";
+
+/* Class = "UILabel"; text = "通透模式"; ObjectID = "hz8-SA-b08"; */
+"hz8-SA-b08.text" = "Transparenzmodus";
+
+/* Class = "UILabel"; text = "升级固件"; ObjectID = "iIt-Bb-0KH"; */
+"iIt-Bb-0KH.text" = "Firmware upgraden";
+
+/* Class = "UILabel"; text = "下面是您双耳听觉能力的科学检测结果。"; ObjectID = "jPa-eT-Ujt"; */
+"jPa-eT-Ujt.text" = "Im Folgenden sind die wissenschaftlichen Testergebnisse Ihres Hörvermögens auf beiden Ohren。";
+
+/* Class = "UILabel"; text = "默认"; ObjectID = "khK-zJ-7nT"; */
+"khK-zJ-7nT.text" = "Voreinstellung";
+
+/* Class = "UILabel"; text = "全部产品"; ObjectID = "kj4-Ql-sdk"; */
+"kj4-Ql-sdk.text" = "Alle Produkte";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "kq7-J5-6bA"; */
+"kq7-J5-6bA.text" = "SOUNDPEATS";
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "kxt-Ec-QQi"; */
+"kxt-Ec-QQi.placeholder" = "E-Mail";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "kzf-RD-NOm"; */
+"kzf-RD-NOm.text" = "0";
+
+/* Class = "UILabel"; text = "Alex Pasco"; ObjectID = "lJt-xj-cTK"; */
+"lJt-xj-cTK.text" = "Alex Pasco";
+
+/* Class = "UITextField"; placeholder = "验证码（6个字符）"; ObjectID = "lxw-BQ-Oah"; */
+"lxw-BQ-Oah.placeholder" = "Code(6 Zeichen)";
+
+/* Class = "UILabel"; text = "留下反馈"; ObjectID = "mVa-Jb-8gm"; */
+"mVa-Jb-8gm.text" = "Feedback hinterlassen";
+
+/* Class = "UILabel"; text = "降噪模式"; ObjectID = "muG-bU-1xP"; */
+"muG-bU-1xP.text" = "Rauschunterdrückung Modus";
+
+/* Class = "UILabel"; text = "自适应EQ"; ObjectID = "muP-D6-oQt"; */
+"muP-D6-oQt.text" = "Adaptiver EQ";
+
+/* Class = "UILabel"; text = "请先戴上耳机"; ObjectID = "mul-56-Tj0"; */
+"mul-56-Tj0.text" = "Bitte zuerst Kopfhörer aufsetzen";
+
+/* Class = "UILabel"; text = "专业的"; ObjectID = "nEu-xu-An5"; */
+"nEu-xu-An5.text" = "Professionell";
+
+/* Class = "UILabel"; text = "帮助"; ObjectID = "nV2-bd-7gY"; */
+"nV2-bd-7gY.text" = "Hilfe";
+
+/* Class = "UILabel"; text = "TRUEDOT"; ObjectID = "nm2-D1-VEe"; */
+"nm2-D1-VEe.text" = "TRUEDOT";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "nop-IZ-eCe"; */
+"nop-IZ-eCe.text" = "100%";
+
+/* Class = "UILabel"; text = "默认"; ObjectID = "nrk-L0-vW0"; */
+"nrk-L0-vW0.text" = "Voreinstellung";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "pFB-Lc-paw"; */
+"pFB-Lc-paw.text" = "Zurück";
+
+/* Class = "UILabel"; text = "二级降噪"; ObjectID = "pJz-Gp-52G"; */
+"pJz-Gp-52G.text" = "Stufe 2";
+
+/* Class = "UITextField"; placeholder = "验证码（6个字符）"; ObjectID = "paD-9W-hhC"; */
+"paD-9W-hhC.placeholder" = "Code(6 Zeichen)";
+
+/* Class = "UILabel"; text = "取消"; ObjectID = "qRW-Oy-rm5"; */
+"qRW-Oy-rm5.text" = "Abbrechen";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "qhW-gi-vrK"; */
+"qhW-gi-vrK.text" = "Zurück";
+
+/* Class = "UILabel"; text = "没听到"; ObjectID = "sUe-Tq-JMl"; */
+"sUe-Tq-JMl.text" = "Nicht gehört";
+
+/* Class = "UILabel"; text = "重置密码"; ObjectID = "sjc-Zd-EoW"; */
+"sjc-Zd-EoW.text" = "Passwort rückstellen";
+
+/* Class = "UILabel"; text = "roy.wu@smartcorelink.com"; ObjectID = "sxm-eZ-66V"; */
+"sxm-eZ-66V.text" = "roy.wu@smartcorelink.com";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "t2p-Ya-sXb"; */
+"t2p-Ya-sXb.text" = "Zurück";
+
+/* Class = "UILabel"; text = "低音增强"; ObjectID = "t90-bh-RUx"; */
+"t90-bh-RUx.text" = "Bassverstärkung";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "tSk-lP-ttc"; */
+"tSk-lP-ttc.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "操作说明"; ObjectID = "tep-S7-GU2"; */
+"tep-S7-GU2.text" = "Anleitung";
+
+/* Class = "UILabel"; text = "同意并继续"; ObjectID = "uAb-Z4-Vo1"; */
+"uAb-Z4-Vo1.text" = "Zustimmen und fortfahren";
+
+/* Class = "UILabel"; text = "重置"; ObjectID = "uYN-UX-nFH"; */
+"uYN-UX-nFH.text" = "Zurücksetzen";
+
+/* Class = "UILabel"; text = "专业的"; ObjectID = "uxs-kw-eea"; */
+"uxs-kw-eea.text" = "Professionell";
+
+/* Class = "UILabel"; text = "登 录"; ObjectID = "vHu-Vf-Cox"; */
+"vHu-Vf-Cox.text" = "Einloggen";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "wO2-Zb-H3W"; */
+"wO2-Zb-H3W.text" = "Zurück";
+
+/* Class = "UILabel"; text = "格莱美获奖者为您打造的精品均衡器"; ObjectID = "whh-HE-zaT"; */
+"whh-HE-zaT.text" = "Von Grammy-Gewinnern erstellter Boutique-Equalizer";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "xBg-8e-yv1"; */
+"xBg-8e-yv1.text" = "100%";
+
+/* Class = "UILabel"; text = "下一步"; ObjectID = "xmJ-FQ-xzV"; */
+"xmJ-FQ-xzV.text" = "Nächster Schritt";
+
+/* Class = "UILabel"; text = "请输入你的注册邮箱。  我们将向你的邮箱发送验证邮件。"; ObjectID = "yUP-eJ-Bxn"; */
+"yUP-eJ-Bxn.text" = "Bitte geben Sie Ihre registrierte E-Mail-Adresse ein.\nWir senden eine Bestätigungs-E-Mail an Ihre Mailbox。";
+
+/* Class = "UILabel"; text = "低音增强"; ObjectID = "zJh-A2-iLz"; */
+"zJh-A2-iLz.text" = "Bassverstärkung";
+
+/* Class = "UILabel"; text = "蓝牙权限未打开。  请在“设置-SoundPEATS”中打开蓝牙权限"; ObjectID = "znp-tT-2XT"; */
+"znp-tT-2XT.text" = "Die Bluetooth-Erlaubnis ist nicht öffnen Sie bitte die Bluetooth-Berechtigung in \"settings soundspeats\"";
+
+"QWo-cB-mdD.text" = "Tragererkennung";
+"S1M-B0-TrV.text" = "Spielmodus";
+"qP5-rS-1VU.text" = "Zurück";
+"hHG-zM-EVM.text" = "hinzufügen";
+"spN-jU-eQY.text" = "Benutzerdefinierter Equalizer";
+
+/* Class = "UILabel"; text = "禁用触控键一击功能"; ObjectID = "2ke-Ry-yoN"; */
+"2ke-Ry-yoN.text" = "Deaktivieren Sie die One-Click-Funktion der Touch-Taste";

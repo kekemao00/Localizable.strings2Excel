@@ -1,0 +1,464 @@
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "0DW-yM-FDm"; */
+"0DW-yM-FDm.placeholder" = "メールアドレス";
+
+/* Class = "UILabel"; text = "已连接"; ObjectID = "1dQ-ZB-Agt"; */
+"1dQ-ZB-Agt.text" = "接続済";
+
+/* Class = "UILabel"; text = "音量控制"; ObjectID = "1qQ-E2-2RP"; */
+"1qQ-E2-2RP.text" = "ボリュームコントロール";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "1yZ-if-nTH"; */
+"1yZ-if-nTH.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "V1.0"; ObjectID = "27Q-J3-Ez6"; */
+"27Q-J3-Ez6.text" = "V1.0";
+
+/* Class = "UILabel"; text = "0/200"; ObjectID = "2gx-kh-s69"; */
+"2gx-kh-s69.text" = "0/200";
+
+/* Class = "UILabel"; text = "连接两个耳塞以了解所有功能"; ObjectID = "2rN-my-2zG"; */
+"2rN-my-2zG.text" = "両側のイヤホンを付けてください";
+
+/* Class = "UILabel"; text = "中国大陆"; ObjectID = "3xA-7k-hKA"; */
+"3xA-7k-hKA.text" = "中国本土";
+
+/* Class = "UILabel"; text = "2020-05-19 09: 00"; ObjectID = "4wv-Ze-teH"; */
+"4wv-Ze-teH.text" = "2020-05-19 09: 00";
+
+/* Class = "UILabel"; text = "查看详细信息"; ObjectID = "5fS-7K-knY"; */
+"5fS-7K-knY.text" = "詳細";
+
+/* Class = "UILabel"; text = "搜索中"; ObjectID = "76z-Yb-O1U"; */
+"76z-Yb-O1U.text" = "検索中";
+
+/* Class = "UILabel"; text = "连 接"; ObjectID = "7Gk-cJ-srz"; */
+"7Gk-cJ-srz.text" = "接続";
+
+/* Class = "UILabel"; text = "+6"; ObjectID = "808-wA-Twk"; */
+"808-wA-Twk.text" = "+6";
+
+/* Class = "UILabel"; text = "戴上耳机找一个安静的地方进行测试。"; ObjectID = "8Bs-p0-iSV"; */
+"8Bs-p0-iSV.text" = "イヤホンを付けて、安静な室内でこの聴力テストを行ってください。";
+
+/* Class = "UILabel"; text = "自定义均衡器"; ObjectID = "8JX-dZ-CYp"; */
+"8JX-dZ-CYp.text" = "イコライザー（EQ）カスタマイズ";
+
+"jHo-4X-HR6.text" = "イコライザー（EQ）カスタマイズ";
+
+"l6c-JG-egP.text" = "イコライザー（EQ）カスタマイズ";
+
+/* Class = "UILabel"; text = "2020.04.23"; ObjectID = "91h-qo-a0j"; */
+"91h-qo-a0j.text" = "2020.04.23";
+
+/* Class = "UILabel"; text = "忘记密码"; ObjectID = "9IL-n6-IPm"; */
+"9IL-n6-IPm.text" = "パスワードをお忘れですか";
+
+/* Class = "UILabel"; text = "在蓝牙设置中选择你的SoundPEATS耳机"; ObjectID = "9qw-Dt-xzX"; */
+"9qw-Dt-xzX.text" = "Bluetooth設定よりSoundPEATSイヤホンを選択してください";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "AQQ-7N-4KW"; */
+"AQQ-7N-4KW.text" = "戻る";
+
+"YBm-Lq-72d.text" = "戻る";
+
+/* Class = "UITextField"; text = "蜗牛MT"; ObjectID = "AdJ-nt-0WI"; */
+"AdJ-nt-0WI.text" = "蜗牛MT";
+
+/* Class = "UILabel"; text = "当前版本: "; ObjectID = "Alc-aE-Vkd"; */
+"Alc-aE-Vkd.text" = "バージョン: ";
+
+/* Class = "UILabel"; text = "一声"; ObjectID = "C5Y-v6-Iht"; */
+"C5Y-v6-Iht.text" = "1回";
+
+/* Class = "UILabel"; text = "测试时间：2020年9月2号 17:52"; ObjectID = "C6M-wT-7h1"; */
+"C6M-wT-7h1.text" = "テスト時間：2020年9月2号 17:52";
+
+/* Class = "UILabel"; text = "选择设备"; ObjectID = "CAk-DA-7g1"; */
+"CAk-DA-7g1.text" = "製品を選択する";
+
+/* Class = "UILabel"; text = "播放音乐，听听有什么差异"; ObjectID = "Cji-ZE-4yD"; */
+"Cji-ZE-4yD.text" = "音楽を再生して違いを聞く";
+
+/* Class = "UILabel"; text = "智能听感测试"; ObjectID = "Cmq-uu-l8z"; */
+"Cmq-uu-l8z.text" = "聴力テスト";
+
+/* Class = "UILabel"; text = "灯效开关"; ObjectID = "DUu-Ko-v4c"; */
+"DUu-Ko-v4c.text" = "インジケータスイッチ";
+
+/* Class = "UILabel"; text = "测试耳机：jinbird 510"; ObjectID = "Dl2-1I-XO6"; */
+"Dl2-1I-XO6.text" = "イヤホンをテスト：jinbird 510";
+
+/* Class = "UILabel"; text = "重置"; ObjectID = "E5B-H4-Mgd"; */
+"E5B-H4-Mgd.text" = "リセット";
+
+"oWN-Up-qxP.text" = "リセット";
+
+/* Class = "UILabel"; text = "完成整个测试大概需要1分钟。"; ObjectID = "Eiv-Fg-ADd"; */
+"Eiv-Fg-ADd.text" = "テストは1分間ほどかかります。";
+
+/* Class = "UITextField"; placeholder = "密码"; ObjectID = "F7r-bl-5Je"; */
+"F7r-bl-5Je.placeholder" = "パスワード";
+
+/* Class = "UILabel"; text = "欢迎使用"; ObjectID = "FZn-hr-FJe"; */
+"FZn-hr-FJe.text" = "いらっしゃいませ";
+
+/* Class = "UILabel"; text = "上传照片"; ObjectID = "GfS-0A-823"; */
+"GfS-0A-823.text" = "写真";
+
+/* Class = "UILabel"; text = "普通模式"; ObjectID = "HOq-Xr-L3i"; */
+"HOq-Xr-L3i.text" = "通常モード";
+
+/* Class = "UILabel"; text = "登录"; ObjectID = "HdX-XN-XZE"; */
+"HdX-XN-XZE.text" = "ログイン";
+
+/* Class = "UILabel"; text = "语言"; ObjectID = "HpW-Td-erq"; */
+"HpW-Td-erq.text" = "言語";
+
+/* Class = "UILabel"; text = "选择要反馈的设备"; ObjectID = "IXD-7p-0ay"; */
+"IXD-7p-0ay.text" = "製品を選択してください";
+
+/* Class = "UILabel"; text = "打给我们"; ObjectID = "Ic5-Pt-iRQ"; */
+"Ic5-Pt-iRQ.text" = "お電話ください";
+
+/* Class = "UILabel"; text = "取消"; ObjectID = "Ig4-sB-qro"; */
+"Ig4-sB-qro.text" = "戻る";
+
+/* Class = "UILabel"; text = "发 送"; ObjectID = "IoN-bJ-Gkb"; */
+"IoN-bJ-Gkb.text" = "送信";
+
+/* Class = "UILabel"; text = "Darrell Thorp"; ObjectID = "IqE-5U-keC"; */
+"IqE-5U-keC.text" = "Darrell Thorp";
+
+/* Class = "UILabel"; text = "问题反馈"; ObjectID = "IwT-LR-1pU"; */
+"IwT-LR-1pU.text" = "フィードバック";
+
+/* Class = "UILabel"; text = "简体中文"; ObjectID = "IzS-f7-wJh"; */
+"IzS-f7-wJh.text" = "中文";
+
+/* Class = "UILabel"; text = "再听一次"; ObjectID = "J0O-s7-6dh"; */
+"J0O-s7-6dh.text" = "もう一度お聞きなさい";
+
+/* Class = "UILabel"; text = "两声"; ObjectID = "JM1-oT-Jbz"; */
+"JM1-oT-Jbz.text" = "2回";
+
+/* Class = "UILabel"; text = "注册"; ObjectID = "JgR-Qi-D90"; */
+"JgR-Qi-D90.text" = "新規登録";
+
+/* Class = "UILabel"; text = "-6"; ObjectID = "Kb2-LO-bdb"; */
+"Kb2-LO-bdb.text" = "-6";
+
+/* Class = "UILabel"; text = "使用条款"; ObjectID = "L8f-Aa-XJX"; */
+"L8f-Aa-XJX.text" = "利用規約";
+
+/* Class = "UILabel"; text = "均衡器"; ObjectID = "LbM-Iv-38b"; */
+"LbM-Iv-38b.text" = "イコライザー（EQ）";
+
+/* Class = "UILabel"; text = "SOUNDPEATS发布“双动圈+两分频”专利TWS耳 机TRUENGINE2"; ObjectID = "MUM-sr-Q3e"; */
+"MUM-sr-Q3e.text" = "SOUNDPEATS发布“双动圈+两分频”专利TWS耳 机TRUENGINE2";
+
+/* Class = "UILabel"; text = "重测"; ObjectID = "Mke-Nv-Blc"; */
+"Mke-Nv-Blc.text" = "もう一度テスト";
+
+/* Class = "UILabel"; text = "升级固件"; ObjectID = "NlB-Ct-DOT"; */
+"NlB-Ct-DOT.text" = "ファームウェアを更新する";
+
+//DBS-c0-ag8
+"DBS-c0-ag8.text" = "ファームウェアを更新する";
+
+/* Class = "UILabel"; text = "TrueAir"; ObjectID = "OEd-bZ-qTL"; */
+"OEd-bZ-qTL.text" = "TrueAir";
+
+/* Class = "UITextView"; text = "优化了EQ高音增 优化了EQ高音增 优化了EQ高音增 优化了EQ高音增"; ObjectID = "PEL-mD-raW"; */
+"PEL-mD-raW.text" = "优化了EQ高音增 优化了EQ高音增 优化了EQ高音增 优化了EQ高音增";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "PUP-Ce-kXh"; */
+"PUP-Ce-kXh.text" = "100%";
+
+/* Class = "UILabel"; text = "选择设备"; ObjectID = "Pn6-JO-FQ0"; */
+"Pn6-JO-FQ0.text" = "製品を選択する";
+
+/* Class = "UILabel"; text = "TRUEDOT"; ObjectID = "Q0M-7I-epg"; */
+"Q0M-7I-epg.text" = "TRUEDOT";
+
+/* Class = "UILabel"; text = "欢迎"; ObjectID = "Q44-lU-oUG"; */
+"Q44-lU-oUG.text" = "いらっしゃいませ";
+
+/* Class = "UILabel"; text = "上图是您听觉能力的科学检测结果。我们将为您智能补偿，开启听力补偿，享受量身定制的好声音吧。"; ObjectID = "QjW-Vp-qnn"; */
+"QjW-Vp-qnn.text" = "上図は聴力の分析結果です。これからAI修正を行いますので、あなただけの音声効果を楽しんでください。";
+
+/* Class = "UILabel"; text = "购买"; ObjectID = "Qjk-1L-vmJ"; */
+"Qjk-1L-vmJ.text" = "購入";
+
+/* Class = "UILabel"; text = "提交"; ObjectID = "Qw5-Bg-N4g"; */
+"Qw5-Bg-N4g.text" = "確認";
+
+/* Class = "UILabel"; text = "按住耳机柄以在各种模式之间循环"; ObjectID = "R7p-qF-ZdD"; */
+"R7p-qF-ZdD.text" = "長く押すとモードを変更する";
+
+/* Class = "UILabel"; text = "欢迎使用"; ObjectID = "Rbw-O1-DhS"; */
+"Rbw-O1-DhS.text" = "いらっしゃいませ";
+
+/* Class = "UILabel"; text = "更新内容"; ObjectID = "RmE-ir-ean"; */
+"RmE-ir-ean.text" = "更新内容";
+
+//NGU-ex-m11
+"NGU-ex-m11.text" = "更新内容";
+
+/* Class = "UILabel"; text = "注意："; ObjectID = "RqR-Ts-ygo"; */
+"RqR-Ts-ygo.text" = "以下の点をご注意ください：";
+
+/* Class = "UILabel"; text = "2020.4.9-12:00"; ObjectID = "Sn8-Bm-mvO"; */
+"Sn8-Bm-mvO.text" = "2020.4.9-12:00";
+
+/* Class = "UITextField"; placeholder = "新密码（6-20个字符）"; ObjectID = "TMe-2v-yJZ"; */
+"TMe-2v-yJZ.placeholder" = "パスワード（6-20文字）";
+
+/* Class = "UILabel"; text = "这是您的自适应EQ配置文件，已保存到您的耳机。"; ObjectID = "TTN-c4-oFK"; */
+"TTN-c4-oFK.text" = "イコライザー（EQ）プロフィールが作成しました。";
+
+/* Class = "UILabel"; text = "编辑"; ObjectID = "Tha-t9-ImG"; */
+"Tha-t9-ImG.text" = "リセット";
+
+/* Class = "UILabel"; text = "重新测试"; ObjectID = "TpW-Tz-mWs"; */
+"TpW-Tz-mWs.text" = "もう一度テスト";
+
+/* Class = "UILabel"; text = "降噪"; ObjectID = "VhW-mD-R5I"; */
+"VhW-mD-R5I.text" = "ノイズを低減する";
+
+/* Class = "UITextField"; placeholder = "密码（6-20个字符）"; ObjectID = "ViB-0z-J8e"; */
+"ViB-0z-J8e.placeholder" = "パスワード（6-20文字)";
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "Vou-uQ-Xeu"; */
+"Vou-uQ-Xeu.placeholder" = "メールアドレス";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "WM6-XC-TDg"; */
+"WM6-XC-TDg.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "关于账号、售后回访、优惠活动等通知"; ObjectID = "WYh-bF-jFU"; */
+"WYh-bF-jFU.text" = "关于账号、售后回访、优惠活动等通知";
+
+/* Class = "UILabel"; text = "获取验证码"; ObjectID = "XZ7-FT-wM7"; */
+"XZ7-FT-wM7.text" = "認証コードを取得";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "Xce-Iw-D09"; */
+"Xce-Iw-D09.text" = "戻る";
+
+/* Class = "UILabel"; text = "当前频率：31HZ"; ObjectID = "Xfn-ui-dba"; */
+"Xfn-ui-dba.text" = "現在の周波数：31HZ";
+
+/* Class = "UILabel"; text = "定制"; ObjectID = "Xp2-BJ-KE9"; */
+"Xp2-BJ-KE9.text" = "カスタマイズ";
+
+/* Class = "UILabel"; text = "请输入反馈信息..."; ObjectID = "YQh-fl-SBj"; */
+"YQh-fl-SBj.text" = "フィードバック内容を記入してください...";
+
+/* Class = "UILabel"; text = "SOUNDPEATS经典"; ObjectID = "Z1U-mK-klE"; */
+"Z1U-mK-klE.text" = "SOUNDPEATS经典";
+
+/* Class = "UILabel"; text = "启用"; ObjectID = "ZZO-yz-gv4"; */
+"ZZO-yz-gv4.text" = "スタート";
+
+/* Class = "UILabel"; text = "订阅 SoundPEATS信息"; ObjectID = "aZb-1k-pOE"; */
+"aZb-1k-pOE.text" = "SoundPEATSチャンネル登録";
+
+/* Class = "UILabel"; text = "关于"; ObjectID = "av3-pt-TLW"; */
+"av3-pt-TLW.text" = "について";
+
+/* Class = "UITextField"; placeholder = " 昵称（2-10个字符）"; ObjectID = "b6X-4K-Reb"; */
+"b6X-4K-Reb.placeholder" = " ニックネーム（2-10文字）";
+
+/* Class = "UILabel"; text = "自适应EQ"; ObjectID = "blg-Np-kXm"; */
+"blg-Np-kXm.text" = "可変的なイコライザー（EQ）";
+
+/* Class = "UILabel"; text = "邮件通知"; ObjectID = "bwU-WQ-Pk7"; */
+"bwU-WQ-Pk7.text" = "メール通知";
+
+/* Class = "UILabel"; text = "简体中文"; ObjectID = "c9c-Fp-0hq"; */
+"c9c-Fp-0hq.text" = "中文";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "cDx-YR-eN9"; */
+"cDx-YR-eN9.text" = "戻る";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "azE-hx-W4B"; */
+"azE-hx-W4B.text" = "戻る";
+
+/* Class = "UILabel"; text = "测试报告"; ObjectID = "cJm-5u-w5L"; */
+"cJm-5u-w5L.text" = "テストレポート";
+
+/* Class = "UILabel"; text = "设置"; ObjectID = "cgc-t8-GVE"; */
+"cgc-t8-GVE.text" = "設定";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "cr1-Dj-Nyy"; */
+"cr1-Dj-Nyy.text" = "戻る";
+
+/* Class = "UILabel"; text = "下 载"; ObjectID = "cwQ-tV-hcT"; */
+"cwQ-tV-hcT.text" = "ダウンロード";
+
+/* Class = "UILabel"; text = "自定义均衡器"; ObjectID = "d3X-Wp-pF9"; */
+"d3X-Wp-pF9.text" = "イコライザー（EQ）カスタマイズ";
+
+/* Class = "UILabel"; text = "最新版本: "; ObjectID = "dCF-Dd-f7b"; */
+"dCF-Dd-f7b.text" = "最新版本: ";
+
+/* Class = "UILabel"; text = "没有消息"; ObjectID = "dZA-0e-Qp8"; */
+"dZA-0e-Qp8.text" = "通知ありません";
+
+/* Class = "UILabel"; text = "客服电话"; ObjectID = "dmJ-XX-7tX"; */
+"dmJ-XX-7tX.text" = "お問い合わせ電話番号";
+
+/* Class = "UILabel"; text = "开启手机蓝牙"; ObjectID = "dyo-x4-NXY"; */
+"dyo-x4-NXY.text" = "スマートフォンのBluetooth機能を有効にしてください";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "eQq-vt-C6T"; */
+"eQq-vt-C6T.text" = "戻る";
+
+/* Class = "UILabel"; text = "获取验证码"; ObjectID = "g4Y-sG-uN6"; */
+"g4Y-sG-uN6.text" = "認証コードを取得";
+
+/* Class = "UILabel"; text = "三声"; ObjectID = "gJb-1j-ofb"; */
+"gJb-1j-ofb.text" = "3回";
+
+/* Class = "UILabel"; text = "当前音量：50db"; ObjectID = "gac-UX-5bv"; */
+"gac-UX-5bv.text" = "現在の音量：50db";
+
+/* Class = "UILabel"; text = "注 册"; ObjectID = "hcD-Ds-UMg"; */
+"hcD-Ds-UMg.text" = "新規登録";
+
+/* Class = "UILabel"; text = "测试过程中，将会播放不同频率的声音，听到几声“嘟”，点击对应的数字，没听到点击“没听到”。"; ObjectID = "hf8-At-wxX"; */
+"hf8-At-wxX.text" = "テスト中、周波数の異なる音が流れます。「DO」の音が流れた回数を数えながら、下の回数選択してください。一回でも聞いていなかった場合、「聞いていなかった」を選択してください”。";
+
+/* Class = "UILabel"; text = "通透模式"; ObjectID = "hz8-SA-b08"; */
+"hz8-SA-b08.text" = "外音取り込みモード";
+
+/* Class = "UILabel"; text = "升级固件"; ObjectID = "iIt-Bb-0KH"; */
+"iIt-Bb-0KH.text" = "ファームウェアを更新する";
+
+/* Class = "UILabel"; text = "下面是您双耳听觉能力的科学检测结果。"; ObjectID = "jPa-eT-Ujt"; */
+"jPa-eT-Ujt.text" = "以下は聴力の分析結果です。";
+
+/* Class = "UILabel"; text = "默认"; ObjectID = "khK-zJ-7nT"; */
+"khK-zJ-7nT.text" = "事前設定";
+
+/* Class = "UILabel"; text = "全部产品"; ObjectID = "kj4-Ql-sdk"; */
+"kj4-Ql-sdk.text" = "すべての製品";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "kq7-J5-6bA"; */
+"kq7-J5-6bA.text" = "SOUNDPEATS";
+
+/* Class = "UITextField"; placeholder = "邮箱"; ObjectID = "kxt-Ec-QQi"; */
+"kxt-Ec-QQi.placeholder" = "メールアドレス";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "kzf-RD-NOm"; */
+"kzf-RD-NOm.text" = "0";
+
+/* Class = "UILabel"; text = "Alex Pasco"; ObjectID = "lJt-xj-cTK"; */
+"lJt-xj-cTK.text" = "Alex Pasco";
+
+/* Class = "UITextField"; placeholder = "验证码（6个字符）"; ObjectID = "lxw-BQ-Oah"; */
+"lxw-BQ-Oah.placeholder" = "認証コード（6桁）";
+
+/* Class = "UILabel"; text = "留下反馈"; ObjectID = "mVa-Jb-8gm"; */
+"mVa-Jb-8gm.text" = "フィードバック";
+
+/* Class = "UILabel"; text = "降噪模式"; ObjectID = "muG-bU-1xP"; */
+//"muG-bU-1xP.text" = "レベル1";
+"muG-bU-1xP.text" = "ANCモード";
+/* Class = "UILabel"; text = "自适应EQ"; ObjectID = "muP-D6-oQt"; */
+"muP-D6-oQt.text" = "可変的なイコライザー（EQ）";
+
+/* Class = "UILabel"; text = "请先戴上耳机"; ObjectID = "mul-56-Tj0"; */
+"mul-56-Tj0.text" = "イヤホンを付けてください";
+
+/* Class = "UILabel"; text = "专业的"; ObjectID = "nEu-xu-An5"; */
+"nEu-xu-An5.text" = "プロ";
+
+/* Class = "UILabel"; text = "帮助"; ObjectID = "nV2-bd-7gY"; */
+"nV2-bd-7gY.text" = "ヘルプ";
+
+/* Class = "UILabel"; text = "TRUEDOT"; ObjectID = "nm2-D1-VEe"; */
+"nm2-D1-VEe.text" = "TRUEDOT";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "nop-IZ-eCe"; */
+"nop-IZ-eCe.text" = "100%";
+
+/* Class = "UILabel"; text = "默认"; ObjectID = "nrk-L0-vW0"; */
+"nrk-L0-vW0.text" = "事前設定";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "pFB-Lc-paw"; */
+"pFB-Lc-paw.text" = "戻る";
+
+/* Class = "UILabel"; text = "二级降噪"; ObjectID = "pJz-Gp-52G"; */
+"pJz-Gp-52G.text" = "レベル2";
+
+/* Class = "UITextField"; placeholder = "验证码（6个字符）"; ObjectID = "paD-9W-hhC"; */
+"paD-9W-hhC.placeholder" = "認証コード（6桁）";
+
+/* Class = "UILabel"; text = "取消"; ObjectID = "qRW-Oy-rm5"; */
+"qRW-Oy-rm5.text" = "キャンセル";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "qhW-gi-vrK"; */
+"qhW-gi-vrK.text" = "戻る";
+
+/* Class = "UILabel"; text = "没听到"; ObjectID = "sUe-Tq-JMl"; */
+"sUe-Tq-JMl.text" = "聞いていなかった";
+
+/* Class = "UILabel"; text = "重置密码"; ObjectID = "sjc-Zd-EoW"; */
+"sjc-Zd-EoW.text" = "パスワード再設定";
+
+/* Class = "UILabel"; text = "roy.wu@smartcorelink.com"; ObjectID = "sxm-eZ-66V"; */
+"sxm-eZ-66V.text" = "roy.wu@smartcorelink.com";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "t2p-Ya-sXb"; */
+"t2p-Ya-sXb.text" = "戻る";
+
+/* Class = "UILabel"; text = "低音增强"; ObjectID = "t90-bh-RUx"; */
+"t90-bh-RUx.text" = "低音強調";
+
+/* Class = "UILabel"; text = "SOUNDPEATS"; ObjectID = "tSk-lP-ttc"; */
+"tSk-lP-ttc.text" = "SOUNDPEATS";
+
+/* Class = "UILabel"; text = "操作说明"; ObjectID = "tep-S7-GU2"; */
+"tep-S7-GU2.text" = "操作説明";
+
+/* Class = "UILabel"; text = "同意并继续"; ObjectID = "uAb-Z4-Vo1"; */
+"uAb-Z4-Vo1.text" = "同意して継続する";
+
+/* Class = "UILabel"; text = "重置"; ObjectID = "uYN-UX-nFH"; */
+"uYN-UX-nFH.text" = "リセット";
+
+/* Class = "UILabel"; text = "专业的"; ObjectID = "uxs-kw-eea"; */
+"uxs-kw-eea.text" = "プロ";
+
+/* Class = "UILabel"; text = "登 录"; ObjectID = "vHu-Vf-Cox"; */
+"vHu-Vf-Cox.text" = "ログイン";
+
+/* Class = "UILabel"; text = "返回"; ObjectID = "wO2-Zb-H3W"; */
+"wO2-Zb-H3W.text" = "戻る";
+
+/* Class = "UILabel"; text = "格莱美获奖者为您打造的精品均衡器"; ObjectID = "whh-HE-zaT"; */
+"whh-HE-zaT.text" = "グラミー受賞したイコライザー（EQ）を設定";
+
+/* Class = "UILabel"; text = "100%"; ObjectID = "xBg-8e-yv1"; */
+"xBg-8e-yv1.text" = "100%";
+
+/* Class = "UILabel"; text = "下一步"; ObjectID = "xmJ-FQ-xzV"; */
+"xmJ-FQ-xzV.text" = "次へ";
+
+/* Class = "UILabel"; text = "请输入你的注册邮箱。  我们将向你的邮箱发送验证邮件。"; ObjectID = "yUP-eJ-Bxn"; */
+"yUP-eJ-Bxn.text" = "アカウントのメールアドレスをご入力ください\n再設定の認証コードをお送りします。";
+
+/* Class = "UILabel"; text = "低音增强"; ObjectID = "zJh-A2-iLz"; */
+"zJh-A2-iLz.text" = "低音強調";
+
+/* Class = "UILabel"; text = "蓝牙权限未打开。  请在“设置-SoundPEATS”中打开蓝牙权限"; ObjectID = "znp-tT-2XT"; */
+"znp-tT-2XT.text" = "ブルートゥースの権限が開いていません。\"設定-SoundPEATS\"でBluetooth権限を開いてください。";
+
+"QWo-cB-mdD.text" = "装着自動検出";
+"S1M-B0-TrV.text" = "ゲームモード";
+"qP5-rS-1VU.text" = "戻る";
+"hHG-zM-EVM.text" = "追加";
+"spN-jU-eQY.text" = "イコライザー（EQ）カスタマイズ";
+
+/* Class = "UILabel"; text = "禁用触控键一击功能"; ObjectID = "2ke-Ry-yoN"; */
+"2ke-Ry-yoN.text" = "タッチキーのワンクリック機能を無効にする";
